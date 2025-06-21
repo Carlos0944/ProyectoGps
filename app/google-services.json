@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "8278840661",
+    "project_id": "gpsubicacionapp-1fea2",
+    "storage_bucket": "gpsubicacionapp-1fea2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8278840661:android:ebe788c3e75d973f730bdc",
+        "android_client_info": {
+          "package_name": "com.example.gpsubicacionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8278840661-c38l4kvaftusskdhr9rbd2q948a1v8s5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gpsubicacionapp",
+            "certificate_hash": "7855e196fb3ad8f2d081ea17621f50c2d39d0af6"
+          }
+        },
+        {
+          "client_id": "8278840661-6art1ei6prbgholai7qg4cq9m6dt3hf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKhpqQL_qPKjwNWLfvMa8J9wnk-FaCoBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8278840661-6art1ei6prbgholai7qg4cq9m6dt3hf3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
