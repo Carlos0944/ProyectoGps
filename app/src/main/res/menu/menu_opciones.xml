@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_enviar_sms"
+        android:title="Ubicacion actual"
+        android:icon="@drawable/ic_location" />
+
+    <item
+        android:id="@+id/menu_toggle_ruta"
+        android:title="Mostrar / Limpiar Ruta"
+        android:icon="@drawable/ic_route" />
+
+</menu>
