@@ -1,0 +1,23 @@
+Configuración de comandos VM
+1.- Instalar Node.js y PM2
+sudo apt update
+sudo apt install nodejs npm
+sudo npm install -g pm2
+
+2.- Subir servidor.js
+
+3.- Ejecutar
+pm2 start servidor.js --name servidor
+pm2 logs servidor
+pm2 save
+pm2 startup
+
+4.-Verifica apertura de puerto
+sudo ss -tapn | grep 5050
+
+5.- TCP
+    Encender GPS con GPRS
+    Verificar en el VPS
+pm2 logs servidor
+
+

@@ -1,0 +1,14 @@
+Comandos para configuración de Dispositivo GPS 303FG
+1.- check123456
+Permite visualizar el estado del GPS.
+2.-position123456
+Envía Ubicación del GPS.
+Comandos importantes a la hora de la configuración para funcionamiento GPS, VPS, Firebase.
+1.- apn123456 internet.claro.com.ec ( apn según operadora que este insertado el SIM en el dispositivo).
+R: APN OK
+2.- adminip123456 104.197.104.15 5050 ( Cambiar la ip externa segun ip de VPS y Puero configurado mediante reglas Firewall).
+R: ADMIN IP OK
+3.-gprs123456 (Activar GPRS).
+R: GPRS OK
+4.- fix030s720h***n123456 ( envio de ubicacion en intervalo de 30 segundos).
+R: FIX OK
